@@ -1,0 +1,12 @@
+MethodOverloading:
+allows a class to define multiple methods with the same method name but different signatures
+how to have different signatures:
+ => change number of parameters that a method takes
+ => change dataTypes of parameters
+ => change the sequence of parameters
+why should we overload?
+1.) cleanliness
+2.) increases the readability of the program
+3.) we don't have to memorize a lot of method names if we are performing the same operation
+
+Signature of a Method => name of method + parameter
